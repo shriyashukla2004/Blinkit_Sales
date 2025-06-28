@@ -4,10 +4,13 @@
 This dashboard provides an analytical view of grocery sales data for Blinkit, India's last-minute delivery app. Built using Excel, it delivers key insights into item performance, outlet segmentation, customer preferences, and sales trends across different outlet types, sizes, and locations.
 
 📁 Dataset Summary
+
 Excel File: BlinkIT Grocery Data Excel.xlsx
+
 Primary Sheet Used: Blinkit Data
 
 🔹 Data Fields:
+
 Item Type – Product category (e.g., Breakfast, Dairy)
 
 Fat Content – Health classification (Low Fat, Regular)
