@@ -66,15 +66,17 @@ Small: 37.0%
 
 
 🎯 Business Questions Answered
-Which outlet type and size generate the most revenue?
 
-What fat content products are more popular among customers?
+-> Which outlet type and size generate the most revenue?
 
-How do item types differ in sales volume and ratings?
+-> What fat content products are more popular among customers?
 
-Are newly established outlets performing as well as older ones?
+-> How do item types differ in sales volume and ratings?
+
+-> Are newly established outlets performing as well as older ones?
 
 🧰 Tools Used
+
 Microsoft Excel:
 
 Pivot Tables
@@ -88,7 +90,11 @@ KPI Cards using conditional formatting
 
 🖼️ Dashboard Snapshot
 
+![Blinkit_Dashboard](https://github.com/user-attachments/assets/dab286f2-81b2-461d-a8f1-b54d0afa7c19)
+
+
 🚀 How to Use
+
 Open BlinkIT Grocery Data Excel.xlsx
 
 Navigate to the Dashboard sheet.
